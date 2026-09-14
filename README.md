@@ -1,10 +1,10 @@
-# Hey Mate, It's Jika here!
+# Hello Mate, It's Jika here!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jika-pramuja)
 
-### Glad to see you here!
+### Welcome Mate!
 
-👋 Hey there! I'm a Software Engineer coding away from Jakarta, Indonesia.
+👋 Hi Mate! I'm a IT Enthusiast.
 
 I am a dedicated professional with a strong passion for Information Technology and programming. Currently transitioning from Software Quality Assurance to Fullstack Development, I combine my background in QA with software engineering to deliver intuitive, robust, and scalable applications.
 
@@ -14,7 +14,7 @@ I am a dedicated professional with a strong passion for Information Technology a
 
 ---
 
-### 💬 Random Dev Quote:
+### 💬 Favourite Dev Quote:
 
 <table align="center" width="100%">
   <tr>
@@ -29,7 +29,7 @@ I am a dedicated professional with a strong passion for Information Technology a
         "At the heart of IT, there are always people. Our work likely begins with thinking about someone we care about. You have someone like that too, don't you? Then let's build something for them."
       </p>
       <p align="right" style="margin-top: 10px; font-size: 12px; color: #58a6ff;">
-        — <b>Hyuga Toru</b>, <i>Rich Man, Poor Woman</i>
+        — <b>Hyuga Toru</b>, <i>Rich Man, Poor Woman (2012)</i>
       </p>
     </td>
   </tr>
